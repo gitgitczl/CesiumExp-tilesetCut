@@ -25,7 +25,7 @@ https://gitee.com/caozl1132/vis3d-ui-vue2
 2. 相关文档地址：
 http://mapgl.com/vis3d/
 
-[更多案例地址](http://mapgl.com/shareCode/)
-[更多免费数据](http://mapgl.com/shareData/)
+[更多案例地址](http://mapgl.com/shareCode/)  
+[更多免费数据](http://mapgl.com/shareData/)  
 [开发文档说明](http://mapgl.com/3dapi/)   
 qq群：606645466（GIS之家共享交流群）
