@@ -18,7 +18,7 @@ ps：如果可以的话，希望大家能给我个star，好让我有更新下�
 
 目前基于Cesium的三维类库vis3d.js已初步整理完毕并完全开源，vis3d.js中包含模型压平、可视域分析、模型裁剪、军事标绘等数十种功能，并且基于vis3d.js开发了一套三维平台vis3d-ui-vue2，也完全开源给大家使用，以下是三维类库及平台的地址：
 
-1. vis3d-ui-vue2地址：
+1. vis3d-ui-vue2地址：  
 https://github.com/gitgitczl/vis3d-ui-vue2  
 https://gitee.com/caozl1132/vis3d-ui-vue2
 
